@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div className="text-center bg-blue-100 pt-10 h-screen">
-      <h1 className="text-4xl text-center mb-6">Chọn thuật toán mã hóa</h1>
+      <h1 className="text-4xl text-center mb-6">Chọn thuật toán mã hóa:</h1>
 
       <select
         onChange={handleCipherChange}
